@@ -6,7 +6,7 @@ integer arguments page and page_size.
 """
 
 
-def index_range (page, page_size) -> tuple:
+def index_range(page, page_size) -> tuple:
     '''
     This function returns the beginning and ending index of a page
     of an API response
